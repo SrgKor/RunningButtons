@@ -1,0 +1,18 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\bin\Debug\RunningButtons.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\bin\Debug\RunningButtons.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\RunningButtons.Form1.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\RunningButtons.Properties.Resources.resources
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\RunningButtons.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\RunningButtons\obj\x86\Debug\RunningButtons.pdb
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\RunningButtons.exe
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\RunningButtons.pdb
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\bin\Debug\RunningButtons.pdb
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\RunningButtons.Properties.Resources.resources
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julia\Desktop\C#Projects\Windows Forms Курс Гудка\RunningButtons\RunningButtons\obj\x86\Debug\RunningButtons.MainForm.resources
